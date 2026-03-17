@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-    Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Host screen layout for ARCore config menu animation and fragment container display.
+    Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Host screen layout for ARCore config menu animation and fragment container display.
     SPDX-License-Identifier: AGPL-3.0-only
     Rundown: Main container layout for the ARCore configuration activity menu shell.
     Usage: Used by ArcoreConfigActivity as the entry layout hosting the animated menu and fragment content.

@@ -1,5 +1,5 @@
 // Copyright 2026, Collabora, Ltd.
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Credits fragment with personal links for this fork build.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Credits fragment with personal links for this fork build.
 // SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
 // Rundown: Credits/identity fragment for fork-specific attribution and outbound profile links.
 // Usage: Opened from the config activity credits tab to provide maintainer and project link references.

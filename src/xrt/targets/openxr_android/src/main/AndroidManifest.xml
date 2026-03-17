@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools">
     <!--
         Copyright 2020-2024, Collabora, Ltd.
-        Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Android runtime manifest updates to expose ARCore configuration activity and related runtime wiring.
+        Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Android runtime manifest updates to expose ARCore configuration activity and related runtime wiring.
 
         SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
     -->

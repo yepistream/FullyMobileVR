@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-    Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Layout for fork credits links and attribution panel.
+    Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Layout for fork credits links and attribution panel.
     SPDX-License-Identifier: AGPL-3.0-only
     Rundown: Credits layout listing personal fork attribution links.
     Usage: Inflated by ByMarkoKazimirovicFragment to present GitHub/website navigation rows.

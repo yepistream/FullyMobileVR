@@ -1,5 +1,5 @@
 # Copyright 2019-2025, Collabora, Ltd.
-# Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Driver build wiring updates for Android ARCore integration in this fork.
+# Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Driver build wiring updates for Android ARCore integration in this fork.
 #
 # SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
 

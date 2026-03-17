@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-    Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Layout for ARCore head-tracking option controls and runtime restart hints.
+    Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Layout for ARCore head-tracking option controls and runtime restart hints.
     SPDX-License-Identifier: AGPL-3.0-only
     Rundown: Settings panel layout for ARCore tracking options and toggles.
     Usage: Inflated by ArcoreHeadTrackingSettingsFragment to let users edit persisted ARCore behavior.

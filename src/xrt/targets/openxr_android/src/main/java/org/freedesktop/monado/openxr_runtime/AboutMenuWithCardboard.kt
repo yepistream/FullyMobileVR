@@ -1,5 +1,5 @@
 // Copyright 2020-2025, Collabora, Ltd.
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> About menu extension adding quick launch for ARCore configuration activity.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> About menu extension adding quick launch for ARCore configuration activity.
 // SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
 /*!
  * @file

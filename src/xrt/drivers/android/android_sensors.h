@@ -1,5 +1,5 @@
 // Copyright 2020, Collabora, Ltd.
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Android device state/header updates for ARCore configuration and tracking data flow.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Android device state/header updates for ARCore configuration and tracking data flow.
 // SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
 /*!
  * @file

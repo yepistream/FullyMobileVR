@@ -1,5 +1,5 @@
 // Copyright 2026, Collabora, Ltd.
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> ARCore JSON config storage/parsing layer with defaults and typed option mapping.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> ARCore JSON config storage/parsing layer with defaults and typed option mapping.
 // SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
 // Rundown: Configuration storage helper that reads/writes runtime ARCore settings in JSON form.
 // Usage: Used by ARCore settings fragments to persist user choices and reload defaults on app start.

@@ -1,5 +1,5 @@
 // Copyright 2020-2023, Collabora, Ltd.
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Android build configuration cleanup for local path overrides and ARCore fork packaging updates.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Android build configuration cleanup for local path overrides and ARCore fork packaging updates.
 // SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
 
 

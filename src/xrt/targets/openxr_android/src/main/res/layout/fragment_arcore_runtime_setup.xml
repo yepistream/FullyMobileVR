@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-    Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Layout for runtime permission setup status and action rows.
+    Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Layout for runtime permission setup status and action rows.
     SPDX-License-Identifier: AGPL-3.0-only
     Rundown: Permission setup/status layout for camera and overlay access required by this runtime flow.
     Usage: Inflated by ArcoreRuntimeSetupFragment to show permission states and launch permission requests.

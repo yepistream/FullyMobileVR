@@ -1,5 +1,5 @@
 // Copyright 2020-2024, Collabora, Ltd.
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Android runtime build integration for ARCore configuration UI and license resource packaging.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Android runtime build integration for ARCore configuration UI and license resource packaging.
 // SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
 import groovy.xml.XmlUtil
 

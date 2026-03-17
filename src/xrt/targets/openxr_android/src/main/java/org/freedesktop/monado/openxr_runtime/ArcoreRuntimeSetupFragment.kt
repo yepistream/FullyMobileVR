@@ -1,5 +1,5 @@
 // Copyright 2026, Collabora, Ltd.
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Runtime setup fragment for camera/overlay permission status and request actions.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Runtime setup fragment for camera/overlay permission status and request actions.
 // SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
 // Rundown: Fragment for validating and requesting Android permissions needed by the ARCore runtime flow.
 // Usage: Opened from config activity runtime setup tab to guide users through camera/overlay access.

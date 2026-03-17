@@ -1,5 +1,5 @@
 // Copyright 2026, Collabora, Ltd.
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> ARCore head-tracking settings fragment binding UI toggles to persisted config.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> ARCore head-tracking settings fragment binding UI toggles to persisted config.
 // SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
 // Rundown: Fragment containing ARCore head-tracking option controls and immediate config persistence behavior.
 // Usage: Opened from the config activity to edit camera/focus/tracking-related runtime options.

@@ -2,7 +2,7 @@
 // Copyright 2013, Jakob Bornecrantz.
 // Copyright 2015, Joey Ferwerda.
 // Copyright 2020-2025, Collabora, Ltd.
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> ARCore config loading, camera mode controls, and sensor timing integration updates.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> ARCore config loading, camera mode controls, and sensor timing integration updates.
 // SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
 /*!
  * @file

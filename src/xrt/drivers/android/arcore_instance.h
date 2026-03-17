@@ -1,4 +1,4 @@
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Minimal ARCore runtime bridge interface defining config/state used by Android tracking.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Minimal ARCore runtime bridge interface defining config/state used by Android tracking.
 // SPDX-License-Identifier: AGPL-3.0-only
 // Rundown: Declares the lightweight ARCore config/state types and lifecycle API used by Android tracking.
 // Usage: Included by Android driver headers/sources to pass ARCore options and call bridge entry points.

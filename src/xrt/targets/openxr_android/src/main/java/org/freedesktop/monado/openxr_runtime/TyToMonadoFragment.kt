@@ -1,5 +1,5 @@
 // Copyright 2026, Collabora, Ltd.
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Embedded Monado about/thanks fragment integration within the new config UI shell.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Embedded Monado about/thanks fragment integration within the new config UI shell.
 // SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
 // Rundown: Fragment wrapper embedding Monado acknowledgement/about content in the fork configuration flow.
 // Usage: Opened from config activity “thanks” section to retain upstream attribution and notices in-app.

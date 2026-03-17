@@ -1,4 +1,4 @@
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Minimal ARCore runtime bridge implementation with EGL session/config control for tracking.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Minimal ARCore runtime bridge implementation with EGL session/config control for tracking.
 // SPDX-License-Identifier: AGPL-3.0-only
 // Rundown: Implements a minimal ARCore-backed tracking runtime bridge for the Android driver path.
 // Usage: Called by the Android sensor driver to start/configure ARCore, fetch poses, and shut down safely.

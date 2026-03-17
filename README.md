@@ -1,7 +1,7 @@
 # FullyMobileVR
 
 <!--
-SPDX-FileCopyrightText: 2026 Marko Kazimirovic <kazimirovicmarko@photone.me>
+SPDX-FileCopyrightText: 2026 Marko Kazimirovic <kazimirovicmarko@proton.me>
 SPDX-License-Identifier: CC-BY-4.0
 -->
 
@@ -49,7 +49,7 @@ This repository is mixed-license software and keeps upstream licensing intact.
 
 - Existing upstream files keep their original licenses (for example BSL-1.0 and third-party licenses under `LICENSES/` and `src/external/`).
 - Contributions marked with:
-  `Marko Kazimirovic <kazimirovicmarko@photone.me> ---> ARCore driver integration, Android runtime configuration UI, and fork-specific build plumbing changes.`
+  `Marko Kazimirovic <kazimirovicmarko@proton.me> ---> ARCore driver integration, Android runtime configuration UI, and fork-specific build plumbing changes.`
   are additionally licensed as `AGPL-3.0-only`.
 - Added AGPL license text is available at `LICENSES/AGPL-3.0-only.txt`.
 
@@ -57,4 +57,4 @@ ARCore SDK content in `src/external/arcore-android-sdk` follows Google's ARCore 
 
 ## Maintainer
 
-- Marko Kazimirovic <kazimirovicmarko@photone.me>
+- Marko Kazimirovic <kazimirovicmarko@proton.me>

@@ -1,5 +1,5 @@
 // Copyright 2026, Collabora, Ltd.
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Main ARCore configuration activity with animated menu flow and fragment routing.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> Main ARCore configuration activity with animated menu flow and fragment routing.
 // SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
 // Rundown: Activity shell for navigating ARCore configuration sections through animated menu transitions.
 // Usage: Launched from runtime menu actions, then hosts config/setup/credits fragments inside one UI flow.

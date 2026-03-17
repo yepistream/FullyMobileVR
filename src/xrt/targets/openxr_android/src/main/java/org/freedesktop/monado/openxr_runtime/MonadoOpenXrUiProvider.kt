@@ -1,5 +1,5 @@
 // Copyright 2020, Collabora, Ltd.
-// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> UI provider wiring updates so runtime entrypoints align with new ARCore config flow.
+// Copyright 2026, Marko Kazimirovic <kazimirovicmarko@proton.me> ---> UI provider wiring updates so runtime entrypoints align with new ARCore config flow.
 // SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
 /*!
  * @file

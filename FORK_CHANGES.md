@@ -1,7 +1,7 @@
 # Fork Changes - FullyMobileVR
 
 <!--
-SPDX-FileCopyrightText: 2026 Marko Kazimirovic <kazimirovicmarko@photone.me>
+SPDX-FileCopyrightText: 2026 Marko Kazimirovic <kazimirovicmarko@proton.me>
 SPDX-License-Identifier: CC-BY-4.0
 -->
 
@@ -17,7 +17,7 @@ This document summarizes key differences between upstream Monado and this fork s
 ## Attribution and License Metadata
 
 - Added maintainer credit marker in touched files:
-  `Marko Kazimirovic <kazimirovicmarko@photone.me> ---> ARCore driver integration, Android runtime configuration UI, and fork-specific build plumbing changes.`
+  `Marko Kazimirovic <kazimirovicmarko@proton.me> ---> ARCore driver integration, Android runtime configuration UI, and fork-specific build plumbing changes.`
 - Added `AGPL-3.0-only` license text under `LICENSES/AGPL-3.0-only.txt`.
 - Kept original upstream and third-party licenses in place.
 
