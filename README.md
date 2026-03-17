@@ -5,7 +5,7 @@ SPDX-FileCopyrightText: 2026 Marko Kazimirovic <kazimirovicmarko@proton.me>
 SPDX-License-Identifier: CC-BY-4.0
 -->
 
-FullyMobileVR is an independent fork of Monado focused on Android XR, ARCore integration, and custom runtime UI work.
+FullyMobileVR is an independent fork of Monado focused on allowing Android to be used as a full 6DoF Headset, OpenXR used for native compatibility with VR apps already made for Android Based Headset Devices (Pico VR, Meta's Rift), ARCore integration For 6DoF Head Pose, and a personal Hand-Tracking alghoritim (Still In Development), comes with it's own UI too :)
 
 ## Upstream Credit
 
