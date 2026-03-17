@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2025, Collabora, Ltd.
+    Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> Runtime top-menu entry for launching ARCore configuration from the app UI.
+    SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/configure_arcore"
+        android:title="@string/menu_configure"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/qrscan"
+        android:title="@string/qr"
+        app:showAsAction="always" />
+
+</menu>

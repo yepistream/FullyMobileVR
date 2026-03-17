@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2020, Collabora, Ltd.
+  ~ Copyright 2026, Marko Kazimirovic <kazimirovicmarko@photone.me> ---> ARCore/runtime menu string additions for settings, permissions, and credits UI.
+  ~ SPDX-License-Identifier: BSL-1.0 AND AGPL-3.0-only
+  -->
+
+<resources>
+    <string name="service_name">Monado OpenXR</string>
+    <string name="menu_configure">Configure ARCore</string>
+
+    <string name="arcore_config_title">ARCore Config</string>
+    <string name="arcore_header_placeholder">opened_menu_position</string>
+
+    <string name="arcore_menu_head_tracking">HEAD-TRACKING SETTINGS</string>
+    <string name="arcore_menu_runtime_setup">RUNTIME SETUP</string>
+    <string name="arcore_menu_thanks">TY TO MONADO</string>
+    <string name="arcore_menu_credits">By Marko Kazimirovic</string>
+
+    <string name="arcore_camera_hz_mode">Camera HZ Mode</string>
+    <string name="arcore_camera_hz_max">MAX</string>
+    <string name="arcore_camera_hz_min">MIN</string>
+    <string name="arcore_auto_focus">Auto-Focus</string>
+    <string name="arcore_plane_detection">Plane Detection</string>
+    <string name="arcore_light_estimation">Light Estimation</string>
+    <string name="arcore_depth_api">Depth API</string>
+    <string name="arcore_instant_placement">Instant Placement</string>
+    <string name="arcore_augmented_faces">Augmented Faces</string>
+    <string name="arcore_image_stabilization">Image Stabilization</string>
+
+    <string name="arcore_restart_hint">Changes are written immediately. Restart runtime to apply.</string>
+    <string name="arcore_restart_runtime">Restart Runtime</string>
+    <string name="arcore_config_file_location">Config file: %1$s</string>
+    <string name="arcore_config_restart_required">ARCore settings changed. Restart runtime to apply them.</string>
+    <string name="arcore_config_save_error">Could not save arcore_config.json</string>
+
+    <string name="arcore_permission_camera">Camera Permission</string>
+    <string name="arcore_permission_overlay">Draw Over Other Apps Permission</string>
+    <string name="arcore_permission_granted">GRANTED</string>
+    <string name="arcore_permission_missing">MISSING</string>
+
+    <string name="ty_to_monado_title">TY TO MONADO</string>
+    <string name="ty_to_monado_placeholder">Built on Monado with ARCore-based 6DoF support.</string>
+
+    <string name="mk_github">M.K GITHUB</string>
+    <string name="mk_website">WEBSITE</string>
+    <string name="mk_github_repo">GITHUB REPO</string>
+</resources>
