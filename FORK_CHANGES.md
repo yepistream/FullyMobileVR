@@ -23,12 +23,7 @@ This document summarizes key differences between upstream Monado and this fork s
 
 ## Repository Cleanup for Publishing
 
-Removed local/reference/generated content that should not be pushed as source:
 
-- `Bug_Fixes_ONLY_A_REFRENCE/`
-- `For_UI_Integration/`
-- `build/`
-- `build-codex/`
 - `src/xrt/targets/openxr_android/.cxx/`
 - `src/xrt/targets/openxr_android/build/`
 - Local IDE/build state folders (`.idea/`, `.gradle/`, `.kotlin/`)
